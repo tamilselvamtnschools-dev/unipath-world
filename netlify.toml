@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to = "/UniPath_World_with_Abroad_Checklist.html"
+  status = 200
